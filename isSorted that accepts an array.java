@@ -1,4 +1,5 @@
-public class Chap7Ex11 {
+public class array Exercise
+{
     public static boolean isSorted(double[] array) {
         double pre = array[0];
     
