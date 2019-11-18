@@ -1,6 +1,4 @@
-public class array Exercise
-{
-    public static boolean isSorted(double[] array) {
+  public static boolean isSorted(double[] array) {
         double pre = array[0];
     
         for (int i = 1; i < array.length; i++) {
