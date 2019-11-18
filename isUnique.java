@@ -1,6 +1,4 @@
-public class isUnique_Exercises
-{
-    public static boolean isUnique(int[] array) {
+ public static boolean isUnique(int[] array) {
         for (int i = 0; i < array.length; i++) {
             int min = array[i];
         
